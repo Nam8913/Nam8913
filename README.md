@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Top Langs]](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Nam8913/Nam8913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
