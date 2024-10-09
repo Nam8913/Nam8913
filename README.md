@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently studying in ho chi minh university natural resources and environment
-🌱 I'm currently learning software engineer and development game
+#🔭 I’m currently studying in ho chi minh university natural resources and environment
+#🌱 I'm currently learning software engineer and development game
 
 ###
 
